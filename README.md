@@ -1,0 +1,4 @@
+# Tower Defense
+
+This is a tower defense game I still have aspiration on creating but on a much smaller scale. I originally wanted to create a 1st person tower defense game with coop mechanics. But realised that Multiplayer is difficult and I need to experiment with that on a much smaller project first. This project is currently on pause however I plan to have different towers with upgrades. Enemies that will try to reach a central hub point and deal damage to some kind of "core" Once that core is destroyed the game will end. I also want the player to have their own builds and loadouts.
+THis project right now consists of a map that tracks the players position, as well as spawning towers by clickin on the map and spoawning them in the corresponding world space position. The turrets also face "enemies", a sphere with the "enemy" tag.
